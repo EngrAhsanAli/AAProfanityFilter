@@ -1,0 +1,16 @@
+PODS:
+  - AAProfanityFilter (0.1.0)
+
+DEPENDENCIES:
+  - AAProfanityFilter (from `../`)
+
+EXTERNAL SOURCES:
+  AAProfanityFilter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AAProfanityFilter: 5e46779ab11e98dae67d88ca8cf33cc8f4f9084c
+
+PODFILE CHECKSUM: f5f774805d426b538afa70cf82284e72b15a4904
+
+COCOAPODS: 1.6.0

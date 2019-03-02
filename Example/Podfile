@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AAProfanityFilter_Example' do
+  pod 'AAProfanityFilter', :path => '../'
+
+  target 'AAProfanityFilter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

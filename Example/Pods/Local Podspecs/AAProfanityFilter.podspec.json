@@ -1,0 +1,22 @@
+{
+  "name": "AAProfanityFilter",
+  "version": "0.1.0",
+  "summary": "A short description of AAProfanityFilter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/EngrAhsanAli/AAProfanityFilter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "EngrAhsanAli": "hafiz.m.ahsan.ali@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/EngrAhsanAli/AAProfanityFilter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AAProfanityFilter/Classes/**/*"
+}
