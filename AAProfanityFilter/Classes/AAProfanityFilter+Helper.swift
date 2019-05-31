@@ -9,7 +9,7 @@ import Foundation
 
 public extension String {
     
-    public func aa_profanityFiltered(_ replaceWith: String = "*") -> String {
+    func aa_profanityFiltered(_ replaceWith: String = "*") -> String {
         
         let contains = AAProfanityFilter.words.contains {
             self.range(of: $0, options: .caseInsensitive) != nil
